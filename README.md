@@ -1,16 +1,37 @@
-## Hi there 👋
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<!--
-**FloraWingrave/FloraWingrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
-Here are some ideas to get you started:
+<p>‎:3</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="#917b88" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/95e3ed.png" width="25" height="20" />
+</p>
+
+```
+
+       \`*-.                  
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+[meow]   '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+       .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+```
