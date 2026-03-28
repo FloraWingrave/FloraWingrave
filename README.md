@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=FloraWingrave&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p>
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" width="320" />
+<img align="left" src="https://files.catbox.moe/7hg3dj.jpg" width="320" />
 
 <img  src="borderseperator.gif">
 
