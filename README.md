@@ -6,6 +6,8 @@
     <img src="https://komarev.com/ghpvc/?username=FloraWingrave&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p>
 
+All projects are private :D
+
 <img align="left" src="https://files.catbox.moe/7hg3dj.jpg" width="320" />
 
 <img  src="borderseperator.gif">
@@ -20,8 +22,8 @@
        `-.-'          `-.       
          ;       `       `.     
          :.       .        \    
-         . \  .   :   .-'   .   
-[meow]   '  `+.;  ;  '      :   
+         . \  .   :   .-'   .
+[meow:3] '  `+.;  ;  '      :   
          :  '  |    ;       ;-. 
          ; '   : :`-:     _.`* ;
        .*' /  .*' ; .*`- +'  `*' 
@@ -30,5 +32,3 @@
 
 
 <img  src="borderseperator.gif">
-
-All projects are private :>
